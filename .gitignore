@@ -1,0 +1,27 @@
+# --- Python e Ambientes Virtuais ---
+# Ignora o ambiente virtual (já está no seu arquivo, mantenha)
+venv/
+.venv/
+env/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter Notebooks e Análise de Dados ---
+# Ignora checkpoints automáticos criados ao rodar o Untitled.ipynb
+.ipynb_checkpoints/
+
+# --- Configurações e Arquivos de Log ---
+# Arquivo log.txt que aparece aberto no topo do seu editor
+log.txt
+*.log
+
+# Arquivos de variáveis de ambiente com senhas ou chaves
+.env
+
+# --- Arquivos do Sistema Operacional ---
+.DS_Store
+Thumbs.db
