@@ -1,0 +1,10 @@
+path: falhas
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: ranhura
+  1: amassado
+  2: mancha
+
